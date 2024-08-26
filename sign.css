@@ -1,0 +1,21 @@
+#img2{
+    width: 30px;
+}
+.form{
+    margin-bottom: 25px;
+    border: 2px solid yellow ;
+    border-radius: 20px;
+    margin: 10% 30% 25% 30%;
+    
+
+}
+.button1{
+    margin: 10% 20% 2% 30%; 
+    
+}
+#form1{
+    background-image: url(images/marvel_comics_library_avengers_vol_1_1963_1965_xl_gb_book005_x_01162_2205271706_id_1393032.jpg);
+}
+.center1{
+    padding: 10px 20px 30px 400px;
+}

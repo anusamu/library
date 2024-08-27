@@ -1,3 +1,11 @@
-#imgb1{
-padding: 10px 20px 30px;
+
+/* #imgb1{
+    display: flex;
+    
 }
+@media screen and (max-width:360px){
+    #imgb1{
+        flex-direction: column;
+        align-items:start;
+    }
+} */
